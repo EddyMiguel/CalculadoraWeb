@@ -1,0 +1,43 @@
+body {
+   background-color: rgb(12, 7, 0);
+   font-family: sans-serif;
+   color: aqua;
+   margin-top: 30px;
+}
+
+h1 {
+   text-align: center;
+   margin-bottom: 20px;
+}
+
+h2 {
+   text-align: center;
+}
+
+.calcular {
+   text-align: center;
+   margin-bottom: 20px;
+   
+}
+
+.buttons {
+   justify-content: center;
+   display: grid;
+   grid-template-columns: 120px 120px 120px 120px;
+   height: 300px;
+}
+
+.historial {
+   margin-top: 10px;
+   border-top: 1px solid #ccc;
+}
+
+ul {
+   color: aquamarine;
+   height: 90px;
+}
+
+.limpio {
+   color: red;
+   background-color: rgb(21, 17, 17);
+}
